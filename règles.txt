@@ -1,0 +1,108 @@
+Objet - Symfunc est une communauté qui promeut l'étude des sciences
+sur notre temps libre. Beaucoup d'entre nous n'ont pas la possibilité
+de s'inscrire à la faculté, sont trop jeunes, ont déjà un travail;
+mais pourtant sont passionés.
+
+Il n'y a aucune restriction d'âge, de niveau académique sur Symfunc.
+
+Les règles sont amenées à évoluer au fil du temps, et les membres sont
+réputés les connaître dans leur version la plus récente.
+Des annonces sont régulièrement effectuées, et les commits sur le
+répertoire contenant le présent document sont aussi publiés sur le
+serveur.
+
+Le non-respect des règles est sanctionné.
+
+Liste des sanctions :
+- Contribution à symfunc,
+- Mise en sourdine,
+- Expulsion du serveur,
+- Bannissement temporaire du serveur,
+- Bannissement définitif du serveur.
+
+Sauf mention contraire, les sanctions sont échelonnées:
+1. Dans un premier temps, le membre est averti oralement par un
+   modérateur ou un responsable.
+2. En cas de récidive, il est sanctionné par une contribution
+   obligatoire.
+3. En cas de récidive, il est sanctionné par une contribution
+   obligatoire ainsi qu'une mise en sourdine.
+4. En cas de récidive, il est expulsé du serveur, mais peut toujours
+   revenir immédiatement; auquel cas il est sanctionné par deux
+   contributions obligatoires.
+5. En cas de récidive, il est banni temporairement du serveur, mais
+   peut toujours revenir; auquel cas il est sanctionné par trois
+   contributions obligatoires.
+6. En cas de récidive, il est banni définitivement du serveur.
+
+Obligations :
+- Tout nouveau membre doit se présenter dans le salon de présentations
+  en respectant le modèle.
+- Les cultivateurs doivent effectuer 3 contributions obligatoires par
+  trimestre.
+
+Interdictions :
+- Les insultes sont interdites.
+- Les contenus incitant à la haine sont interdits.
+- Les contenus vulgaires sont interdits.
+- Troller est interdit.
+- Les contenus à caractère sexuel sont interdits.
+- Les contenus violents ou gores sont interdits.
+- Les contenus répugnants sont interdits.
+- Écrire tous ses messages en majuscules est interdit.
+- Polluer un salon d'un trop grand nombre de messages inopportuns est interdit.
+- Polluer un salon de messages hors-sujets de manière répétée est interdit.
+- Poster des messages uniquement pour augmenter son compteur est
+  interdit.
+- Les règles s'appliquent aussi pour les pseudonymes, descriptions,
+  avatars, et contenus joints aux messages.
+- S'il y a plusieurs discussions en parallèle et que les messages
+  s'entrelacent, celles sur le travail/carrière/études/orientation
+  seront redirigées vers le salon dédié . Priorité aux autres
+  discussions.
+- Le salon "discipline" sert uniquement à déclarer les tâches scientifiques et
+  productives faites.
+
+Droits :
+- Les membres sont invités à signaler tout abus de modération aux
+  administrateurs.
+- Les discussions qui parlent du travail, carrière professionnelle,
+  des études ou de l'orientation sont tolérées sur tout salon pourvu
+  qu'elles en respectent la thématique.
+- Il est possible de discuter de l'appareil reproducteur sur le salon
+  de microbiologie si l'objet est scientifique.
+- Il est possible de discuter de contenus répugnants sur le salon
+  concerné si l'objet est scientifique.
+- Les cultivateurs n'ont pas de participation obligatoire, sauf les
+  responsables et modérateurs.
+- Il est possible en cas d'absence prolongée de plus d'un mois
+  d'obtenir une dérogation sur la participation obligatoire en
+  contactant un modérateur avant l'absence en question.
+
+Règles spéciales :
+- Une participation obligatoire de 3 messages par trimestre est requise,
+  sinon le membre sera averti puis kick.
+- La divulgation de donnée personnelle d'un tiers sans son
+  autorisation est punie d'un bannissement définitif.
+- La publicité pour une autre communauté est punie d'un bannissement
+  définitif. La caractérisation d’un message en tant que tel est
+  laissée à l’appréciation des modérateurs.
+- Le manque de respect envers un autre membre, le serveur, une
+  décision de modération ou de l'administration, notamment des termes
+  péjoratifs, mépris, discrimination, etc.; sera sanctionné par une
+  contribution obligatoire.
+- Annoncer fièrement avoir été oisif est sanctionné par une
+  contribution obligatoire.
+
+Pour les modérateurs :
+- La qualification subjective de l'applicabilité d'une règle est
+  laissée à l'appréciation des modérateurs.
+- Les sanctions appliquées par un modérateur ne peuvent l'être que si
+  elles sont justifiées par une règle écrite dans les présentes
+  règles, sinon il s'agit d'un abus.
+- Si la peine appliquée est plus élevée que celle prévue par les
+  règles, cela est également considéré comme un abus.
+- Les modérateurs qui abusent ainsi de leur pouvoir de modération seront sanctionnés.
+- Les "plaisanteries" genre "tu me saoules je te mute quelques
+  instants" sont également des abus.
+- Un abus est considéré comme tel même sans plainte d'un membre.
