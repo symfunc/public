@@ -1,6 +1,6 @@
 Objet - Symfunc est une communauté qui promeut l'étude des sciences
 sur notre temps libre. Beaucoup d'entre nous n'ont pas la possibilité
-de s'inscrire à la faculté, sont trop jeunes, ont déjà un travail;
+de s'inscrire à la faculté, sont trop jeunes, ont déjà un travail ;
 mais pourtant sont passionés.
 
 Il n'y a aucune restriction d'âge, de niveau académique sur Symfunc.
@@ -20,7 +20,7 @@ Liste des sanctions :
 - Bannissement temporaire du serveur,
 - Bannissement définitif du serveur.
 
-Sauf mention contraire, les sanctions sont échelonnées:
+Sauf mention contraire, les sanctions sont échelonnées :
 1. Dans un premier temps, le membre est averti oralement par un
    modérateur ou un responsable.
 2. En cas de récidive, il est sanctionné par une contribution
@@ -31,7 +31,7 @@ Sauf mention contraire, les sanctions sont échelonnées:
    revenir immédiatement; auquel cas il est sanctionné par deux
    contributions obligatoires.
 5. En cas de récidive, il est banni temporairement du serveur, mais
-   peut toujours revenir; auquel cas il est sanctionné par trois
+   peut toujours revenir ; auquel cas il est sanctionné par trois
    contributions obligatoires.
 6. En cas de récidive, il est banni définitivement du serveur.
 
@@ -52,16 +52,31 @@ Interdictions :
 - Écrire tous ses messages en majuscules est interdit.
 - Polluer un salon d'un trop grand nombre de messages inopportuns est interdit.
 - Polluer un salon de messages hors-sujets de manière répétée est interdit.
+- Annoncer fièrement avoir été oisif est interdit.
 - Poster des messages uniquement pour augmenter son compteur est
   interdit.
 - Les règles s'appliquent aussi pour les pseudonymes, descriptions,
   avatars, et contenus joints aux messages.
 - S'il y a plusieurs discussions en parallèle et que les messages
   s'entrelacent, celles sur le travail/carrière/études/orientation
-  seront redirigées vers le salon dédié . Priorité aux autres
+  seront redirigées vers le salon dédié. Priorité aux autres
   discussions.
-- Le salon "discipline" sert uniquement à déclarer les tâches scientifiques et
-  productives faites.
+- Le manque de respect envers un autre membre, le serveur, une
+  décision de modération ou de l'administration, notamment des termes
+  péjoratifs, mépris, discrimination, etc.; est interdit.
+- Les comportements suivants sont notamment considérés comme un manque
+  de respect : la provocation, continuer à polémiquer alors qu'un modérateur
+  a demandé à clore une discussion, la mauvaise foi apparente, l'apologie de
+  comportements problématiques.
+- En cas de désaccord avec l'application d'une règle ou une politique
+  de modération, merci d'engager prioritairement le dialogue avec
+  l'équipe de modération, si possible en message privé. Nous
+  tâcherons de vous répondre autant que possible afin de traiter
+  l'incident dans le calme. Un refus de le faire sera considéré comme
+  un manque de respect, d'autant plus s'il s'accompagne de comportements provocateurs et/ou de mauvaise foi.
+- Le salon "discipline" sert uniquement à déclarer les tâches
+  scientifiques et productives faites.
+Ces règles ont pour avant tout pour objectif d'assurer un climat d'échange sain et respectueux de tous.
 
 Droits :
 - Les membres sont invités à signaler tout abus de modération aux
@@ -87,12 +102,7 @@ Règles spéciales :
 - La publicité pour une autre communauté est punie d'un bannissement
   définitif. La caractérisation d’un message en tant que tel est
   laissée à l’appréciation des modérateurs.
-- Le manque de respect envers un autre membre, le serveur, une
-  décision de modération ou de l'administration, notamment des termes
-  péjoratifs, mépris, discrimination, etc.; sera sanctionné par une
-  contribution obligatoire.
-- Annoncer fièrement avoir été oisif est sanctionné par une
-  contribution obligatoire.
+
 
 Pour les modérateurs :
 - La qualification subjective de l'applicabilité d'une règle est
