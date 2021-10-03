@@ -118,3 +118,5 @@ Pour les modérateurs :
 - Les "plaisanteries" genre "tu me saoules je te mute quelques
   instants" sont également des abus.
 - Un abus est considéré comme tel même sans plainte d'un membre.
+- Les modérateurs peuvent s'ils considèrent que c'est justifié, mettre
+  en sourdine ou sous mode lent un salon.
