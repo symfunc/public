@@ -26,12 +26,12 @@ Sauf mention contraire, les sanctions sont échelonnées :
 1. Dans un premier temps, le membre est averti oralement par un
    modérateur ou un responsable.
 2. En cas de récidive, il est sanctionné par une contribution
-   obligatoire.
+   obligatoire supplémentaire.
 3. En cas de récidive, il est sanctionné par une contribution
-   obligatoire ainsi qu'une mise en sourdine.
-4. En cas de récidive, il est expulsé du serveur, mais peut toujours
-   revenir immédiatement; auquel cas il est sanctionné par deux
-   contributions obligatoires.
+   obligatoire supplémentaire ainsi qu'une mise en sourdine de 24h.
+4. En cas de récidive, il est expulsé du serveur 3 jours, mais peut
+   toujours revenir immédiatement; auquel cas il est sanctionné par
+   deux contributions obligatoires supplémentaires.
 5. En cas de récidive, il est banni temporairement du serveur, mais
    peut toujours revenir ; auquel cas il est sanctionné par trois
    contributions obligatoires.
@@ -72,13 +72,16 @@ Interdictions :
   comportements problématiques.
 - En cas de désaccord avec l'application d'une règle ou une politique
   de modération, merci d'engager prioritairement le dialogue avec
-  l'équipe de modération, si possible en message privé. Nous
-  tâcherons de vous répondre autant que possible afin de traiter
-  l'incident dans le calme. Un refus de le faire sera considéré comme
-  un manque de respect, d'autant plus s'il s'accompagne de comportements provocateurs et/ou de mauvaise foi.
+  l'équipe de modération, si possible en message privé. Nous tâcherons
+  de vous répondre autant que possible afin de traiter l'incident dans
+  le calme. Un refus de le faire sera considéré comme un manque de
+  respect, d'autant plus s'il s'accompagne de comportements
+  provocateurs et/ou de mauvaise foi.
 - Le salon "discipline" sert uniquement à déclarer les tâches
   scientifiques et productives faites.
-Ces règles ont pour avant tout pour objectif d'assurer un climat d'échange sain et respectueux de tous.
+  
+Ces règles ont pour avant tout pour objectif d'assurer un climat
+d'échange sain et respectueux de tous.
 
 Droits :
 - Les membres sont invités à signaler tout abus de modération aux
