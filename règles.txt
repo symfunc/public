@@ -79,6 +79,9 @@ Interdictions :
   provocateurs et/ou de mauvaise foi.
 - Le salon "discipline" sert uniquement à déclarer les tâches
   scientifiques et productives faites.
+- Les pseudonymes discord doivent permettre d'identifier immédiatement
+  un membre afin de faciliter les traitements. Le membre doit changer
+  son pseudonyme par lui-même.
   
 Ces règles ont pour avant tout pour objectif d'assurer un climat
 d'échange sain et respectueux de tous.
