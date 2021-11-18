@@ -86,7 +86,7 @@ Sur #discussions-symfunc, faîtes votre proposition en donnant quelques élémen
 
 ## Guide du cultivateur débutant
 
-Dans la description du salon #discussions-symfunc se trouve un index des ressources Symfunc, ainsi qu'un lien pour débuter.
+Dans la description du salon #organisation-symfunc se trouve un index des ressources Symfunc, ainsi qu'un lien pour débuter.
 
 ## Vous serez inactifs prochainement ? Vous souhaitez quitter la communauté ?
 
