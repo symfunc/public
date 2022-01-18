@@ -37,7 +37,7 @@ Le candidat doit ensuite effectuer des recherches et rédiger un document de 100
 * Le format est libre (résumé de cours, notes, synthèse, exposé, fiches de révision).
 * Le livrable doit cependant être bien rédigé. Les phrases doivent être complètes, pas de fautes d'orthographe, un ton neutre, etc.
 * Les schémas, images, listes, codes, etc. sont autorisés et appréciés; mais le nombre de mots doit quand même être respecté. 
-* Le livrable n'a pas besoin de s'inscrire dans le format Symfunc, un tel traitement pourrait éventuellement faire l'objet d'une contribution par un cultivateur. Ainsi le livrable n'est prévu que pour le test et n'est pas publiable ni utilisable en l'état.
+* Le livrable est uniquement destiné à l'examen d'entrée et ne constitue dès lors pas une contribution.
 
 ## Partie déontologique
 
