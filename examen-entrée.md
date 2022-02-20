@@ -13,7 +13,7 @@ Pour devenir cultivateur, les candidats doivent passer un examen divisé en deux
 
 1. Les correcteurs sont choisis parmi les cultivateurs actifs aléatoirement par un membre du comité de gestion, et doivent respecter le processus d'examen. Le nombre de correcteurs est toujours impair. S'ils refusent ils sont sanctionnés.
 2. Les correcteurs doivent s'organiser et contacter le candidat sous 3 jours.
-3. Le candidat dispose de 3 jours pour proposer un sujet, qu'un membre du comité de gestion doit accepter (le sujet doit lui être transmis par les cultivateurs 24h apres la réponse du candidat). Si le candidat n'a pas de sujet ou n'obtient pas l'approbation du membre du comité de gestion, un sujet lui est soumis par ce dernier.
+3. Le candidat dispose de 3 jours pour proposer un sujet, qu'un membre du comité de gestion doit accepter (le sujet doit lui être transmis par les correcteurs 24h apres la réponse du candidat). Si le candidat n'a pas de sujet ou n'obtient pas l'approbation du membre du comité de gestion, un sujet lui est soumis par ce dernier.
 4. Le candidat dispose de 2 semaines pour rédiger la partie technique. Durant cette période, il doit convenir d'une date et d'une heure d'entretien déontologique avec les correcteurs qui doivent être simultanément présents.
 5. Les correcteurs disposent de 3 jours pour relire le travail du candidat.
 6. Lors de l'entretien, les correcteurs tirent chacun au hasard 3 questions toutes différentes entre elles, et interrogent le candidat. Celui-ci doit répondre rapidement, et les correcteurs peuvent lui demander de clarifier son point de vue si nécessaire.
