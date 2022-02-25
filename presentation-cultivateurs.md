@@ -126,7 +126,7 @@ Certains annonces doivent obligatoirement obtenir une réponse par les cultivate
 
 ## Un cultivateur est réputé avoir lu
 
-Les cultivateurs sont réputés s'informer des modifications de fonctionnement et des règles. Pour se faire, il peuvent utiliser [le site Internt](https://symfunc.com) ou bien le salon des annonces pour les cultivateurs.
+Les cultivateurs sont réputés s'informer des modifications de fonctionnement et des règles. Pour se faire, il peuvent utiliser [le site Internet](https://symfunc.com) ou bien le salon des annonces pour les cultivateurs.
 
 ## Un cultivateur est réputé être organisé
 
