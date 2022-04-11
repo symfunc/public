@@ -12,6 +12,14 @@ Sauf mention du contraire, un comportement problématique est sanctionné ainsi 
 * En cas de récidive, banissement définitif.
 * Un utilisateur peut avoir au plus 5 sanctions simultanémet (inclus), sinon il est banni définitivement.
 
+* Les autorités décident si un motif est valable lorsque la situation le demande.
+* En cas de conflit d'intérêt, notamment s'il s'agit de sanctionner une connaissance personnelle, l'autorité la plus neutre a le dernier mot.
+* En cas de manquement sur un travail à rendre, il doit être rendu quand même en retard, mais avant l'échéance de la sanction; et une sanction s'ajoute à la quantité totale de travail.
+* En cas de manquement sur un événement, le temps estimé par l'autorité doit être rattrapé sous la forme d'une sanction obligatoire; et une sanction s'ajoute à la quantité totale de travail.
+* Les contributions et sanctions ne sont acceptées que lorsqu'elles ont été publiées sur un dépôt officiel.
+* En cas de sanction, l'utilisateur a une semaine pour la régulariser. À la discrétion de l'autorité, un délai supplémentaire peut être accordé.
+* L'utilisateur a 4 jours pour répondre qu'il accepte de faire la sanction, mais la date compte à partir du moment où elle a été prononcée.
+
 # Interdictions
 
 * La divulgation de donnée personnelle d'un tiers sans son autorisation est punie d'un bannissement définitif.
@@ -35,6 +43,11 @@ Sauf mention du contraire, un comportement problématique est sanctionné ainsi 
 * En cas de désaccord avec l'application d'une règle ou une politique de modération, merci d'engager prioritairement le dialogue avec l'équipe de modération, si possible en message privé. Nous tâcherons de vous répondre autant que possible afin de traiter l'incident dans le calme. Un refus de le faire sera considéré comme un manque de respect, d'autant plus s'il s'accompagne de comportements provocateurs et/ou de mauvaise foi.
 * Le salon "discipline" sert uniquement à déclarer les tâches scientifiques et productives faites.
 * Les pseudonymes discord doivent permettre d'identifier immédiatement un membre afin de faciliter les traitements. Le membre doit changer son pseudonyme par lui-même.
+* Il est interdit de publier un lien sans description de son contenu. S'il y a un résumé ajouté automatiquement par le bot, et qu'il exprime le contenu du lien, ne pas écrire de description supplémentaire est permis.
+
+## Groupes de travail
+
+* Quitter un groupe de travail sans motif valable est passible d'une sanction.
 
 ## Modérateurs
 
