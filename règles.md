@@ -48,6 +48,9 @@ Sauf mention du contraire, un comportement problématique est sanctionné ainsi 
 ## Groupes de travail
 
 * Quitter un groupe de travail sans motif valable est passible d'une sanction.
+* Un responsable doit spécifier les tâches à faire dans le dépôt du groupe de travail, et non par MP, à l'oral. Il est sanctionné s'il procède autrement.
+* Un responsable ne peut pas faire de traitement de faveur. Si deux participants ont les mêmes profils, la charge de travail doit leur être également partagée.
+* Les responsables mettent à jour les dépôts régulièrement. Tout cultivateur dérangé par un dépôt non-mis à jour par un responsable sera sanctionné.
 
 ## Modérateurs
 
@@ -109,6 +112,10 @@ Sauf mention du contraire, un comportement problématique est sanctionné ainsi 
 * Passer régulièrement vérifier que le quota de contributions a bien été effectué.
 * Passer régulièrement vérifier que les promesses ont été respectées.
 
+### Mainteneur
+
+* Tout cultivateur qui crée un répertoire en est le mainteneur par défaut, sauf s'il trouve quelqu'un d'autre qui accepte de le remplacer.
+
 ### Modérateurs Discord
 
 * Vérifier régulièrement les issues dans [le répertoire de gestion Symfunc](https://github.com/symfunc/gestion-symfunc/issues)
@@ -124,7 +131,7 @@ Sauf mention du contraire, un comportement problématique est sanctionné ainsi 
 * Passer régulièrement contrôler le comité disciplinaire.
 * Passer régulièrement contrôler les modérateurs Discord.
 
-## Demande d'absence
+## Départ à durée déterminée
 
 * Les utilisateurs, lorsqu'ils souhaitent s'absenter, doivent :
    * Contacter le comité de gestion et leur signaler,
@@ -134,6 +141,15 @@ Sauf mention du contraire, un comportement problématique est sanctionné ainsi 
 * Les absences doivent être signalées au moins 24h avant.
 * Les absences doivent être acceptées par un membre du comité de gestion avant d'être validées. Le membre du comité de gestion s'assure notamment que l'absence ne causera pas de tort aux autres utilisateurs, et que le motif est valable. Si le motif n'est pas communiqué, et que les absences sont trop fréquentes, le membre du comité de gestion peut choisir de refuser s'il estime que la demande d'absence est infondée.
 * Toute absence qui cause un tort à un autre utilisateur sera sanctionnée.
+* Tout départ à durée déterminée est enregistré dans le registre, consultable par tous les cultivateurs.
+
+## Départ à durée indéterminée
+
+* Les cultivateurs peuvent partir définitivement. Ils renoncent alors à tous leurs droits immédiatement.
+* Les départs définitifs sont annoncés au moins une semaine avant la date de départ effective au comité de gestion.
+* Si un cultivateur souhaite revenir après être parti définitivement, il doit 3 sanctions la première fois. S'il repart définitivement ensuite, il est banni définitivement.
+* Les cultivateurs qui partent de manière non-annoncée pour une période indéterminée sont bannis définitivement.
+* Tout départ à durée indéterminée est enregistré dans le registre, consultable par tous les cultivateurs.
 
 ## Accès au blabla
 
