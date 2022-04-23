@@ -69,6 +69,7 @@ Sauf mention du contraire, un comportement problématique est sanctionné ainsi 
 * Il est possible de discuter de l'appareil reproducteur sur le salon de microbiologie si l'objet est scientifique.
 * Il est possible de discuter de contenus répugnants sur le salon concerné si l'objet est scientifique.
 * Les cultivateurs n'ont pas de participation obligatoire, sauf les responsables et modérateurs.
+* Les cultivateurs doivent au moins participer à un objectif qui n'est pas académique ou professionnel.
 
 ## Obligations
 
