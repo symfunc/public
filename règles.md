@@ -50,7 +50,7 @@ Sauf mention du contraire, un comportement problématique est sanctionné ainsi 
 * Quitter un groupe de travail sans motif valable est passible d'une sanction.
 * Un responsable doit spécifier les tâches à faire dans le dépôt du groupe de travail, et non par MP, à l'oral. Il est sanctionné s'il procède autrement.
 * Un responsable ne peut pas faire de traitement de faveur. Si deux participants ont les mêmes profils, la charge de travail doit leur être également partagée.
-* Les responsables mettent à jour les dépôts régulièrement. Tout cultivateur dérangé par un dépôt non-mis à jour par un responsable sera sanctionné.
+* Un responsable qui ne signale pas aux autorités tout cultivateur n'ayant pas rempli ses obligations dans le groupe de travail est sanctionné.
 
 ## Modérateurs
 
