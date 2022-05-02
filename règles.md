@@ -20,6 +20,12 @@ Sauf mention du contraire, un comportement problématique est sanctionné ainsi 
 * En cas de sanction, l'utilisateur a une semaine pour la régulariser. À la discrétion de l'autorité, un délai supplémentaire peut être accordé.
 * L'utilisateur a 4 jours pour répondre qu'il accepte de faire la sanction, mais la date compte à partir du moment où elle a été prononcée.
 
+# Remarque général sur le contenu
+
+Symfunc est une communauté d'amateurs qui souhaitent le rester. Si les professionnels ou les étudiants sont les bienvenus, Symfunc n'est ni un centre de formation, ni une académie.
+
+En particulier, nous n'aidons plus pour les devoirs, l'orientation, ou la formation.
+
 # Interdictions
 
 * La divulgation de donnée personnelle d'un tiers sans son autorisation est punie d'un bannissement définitif.
