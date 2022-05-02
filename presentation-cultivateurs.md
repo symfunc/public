@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Symfunc est une communauté qui promeut l'étude des sciences sur son temps libre. Beaucoup d'entre nous n'ont pas la possibilité de s'inscrire à la faculté, sont trop jeunes, ou ont déjà un travail, mais pourtant sont passionnés.
+Symfunc est une communauté d'amateurs qui promeut l'étude des sciences sur son temps libre. Beaucoup d'entre nous n'ont pas la possibilité de s'inscrire à la faculté, sont trop jeunes, ou ont déjà un travail, mais pourtant sont passionnés.
 
 Il n'y a aucune restriction d'âge ou de niveau académique sur Symfunc.
 
@@ -34,15 +34,17 @@ Ils peuvent à tout moment passer l'examen d'entrée pour devenir cultivateur.
 
 Ils ont également un faible quota de message à tenir pour ne pas être expulsés pour inactivité.
 
+## Les zinzins
+
+Il s'agit d'amateurs de sciences sur leur temps libre. Ils vont souvent avoir une approche non-conventionnelle, sur des sujets parfois impopulaires.
+
 ## Les cultivateurs
 
 Il s'agit des membres de Symfunc. Ils sont inscrits à un registre après avoir passé l'examen d'entrée, et doivent faire part d'une présence régulière.
 
 Leur principal devoir est la contribution mensuelle qu'ils doivent effectuer. Aucun cultivateur n'est exempté. En échange, ils ont accès à tout le travail des autres cultivateurs tant qu'ils continuent de contribuer. Ainsi, seuls ceux qui contribuent peuvent accéder aux contributions des autres.
 
-## Les zinzins
-
-Il s'agit d'utilisateurs qui font des sciences non-académiques (dans le sens où l'ordre dans lequel ils voient les notions ne correspond à aucun programme) sur leur temps libre. Ils vont souvent avoir une approche non-conventionnelle sur des sujets parfois impopulaires.
+Un cultivateur est un zinzin.
 
 ## Intervenants et groupes de travail
 
@@ -149,45 +151,3 @@ Les connaissances telles que les cours ne peuvent pas être divulguées à des t
 Le salon discipline est un salon dédié uniquement à poster lorsqu'un travail productif est terminé. Cela sert à se motiver et voir que les autres aussi essaient de s'améliorer. Il permet aux débutants ayant de la peine à s'organiser de voir au bout de quelques jours s'ils ont été oisifs ou non.
 
 Prenez-le comme un jeu.
-
-### Cultivateurs
-
-Sur le serveur Discord, vous trouverez plusieurs salons :
-- `#annonces-cultivateurs` : fil d'actualités de la communauté des cultivateurs.
-- `#organisation-symfunc` : discussions courantes, organisation des projets, …
-- `#logs-ne-pas-mute` : notifications des commits sur les différents dépôts Github de Symfunc.
-
-Pour toute proposition, merci d'ouvrir un ticket dans les **Issues** du dépôt concerné. Plus lisible qu'un message sur Discord perdu dans un fil de discussion, cela permet de garder une trace pérenne de la proposition et de la traiter plus efficacement.
-
-## Vous serez inactifs prochainement ? Vous souhaitez quitter la communauté ?
-
-* En cas d'inactivité prévue, n'oubliez pas d'informer un membre du Comité disciplinaire pour qu'il vous exempte temporairement du devoir de contribution futur.
-* Si vous souhaitez définitivement quitter la communauté des cultivateurs (manque de temps, perte de motivation, …), merci d'en informer un membre du Comité disciplinaire. Vous devrez régulariser vos contributions avant de pouvoir quitter la communauté.
-
-## Droits d'accès
-
-### Accès aux ressources Symfunc
-
-| Grade                        | Groupe de travail | Dépôt Github                                   | Logiciels                       |
-|------------------------------|-------------------|------------------------------------------------|---------------------------------|
-| Non-cultivateur              |                   |                                                |                                 |
-| Cultivateur                  | Accès             | Accès                                          | Accès en respectant la licence. |
-| Intervenant                  | Accès             | Seulement aux ressources du groupe de travail. |                                 |
-| Responsable de salon Discord |                   |                                                |                                 |
-| Modérateur Discord           |                   |                                                |                                 |
-| Comité de gestion            | Accès             | Accès                                          | Accès en respectant la licence. |
-| Comité disciplinaire         | Accès             | Accès                                          | Accès en respectant la licence. |
-| Administration               | Accès             | Accès                                          | Accès en respectant la licence. |
-
-### Accès par salons Discord
-
-| Grade                        | Affaires mondaines | Zinzins | Discipline | Cultivateurs | Groupes de travail | Responsables | Modération | Gestion |
-|------------------------------|--------------------|---------|------------|--------------|--------------------|--------------|------------|---------|
-| Non-cultivateur              | Accès              | Accès   | Accès      |              |                    |              |            |         |
-| Cultivateur                  | Accès              | Accès   | Accès      | Accès        | Accès              |              |            |         |
-| Intervenant                  | Accès              | Accès   | Accès      |              | Accès              |              |            |         |
-| Responsable de salon Discord | Accès              | Accès   | Accès      |              |                    | Accès        |            |         |
-| Modérateur Discord           | Accès              | Accès   | Accès      | Accès        | Accès              | Accès        | Accès      | Accès   |
-| Comité de gestion            | Accès              | Accès   | Accès      | Accès        | Accès              |              |            | Accès   |
-| Comité disciplinaire         | Accès              | Accès   | Accès      | Accès        | Accès              |              |            | Accès   |
-| Administration               | Accès              | Accès   | Accès      | Accès        | Accès              | Accès        | Accès      | Accès   |
